@@ -9,7 +9,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | # | Problem Name | Difficulty | Category | Solution |
 | :--- | :--- | :---: | :---: | :---: |
 | 1 | Revising the Select Query I | Easy | Basic Select | [View Code](./SQL/Basic-Select/revising-the-select-query-1.sql) |
-
+| 2 | Revising the Select Query II | Easy | Basic Select | [View Code](./SQL/Basic-Select/revising-the-select-query-2.sql) |
 ---
 
 ## 🛠️ Technologies
