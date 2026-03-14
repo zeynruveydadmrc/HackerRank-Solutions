@@ -12,6 +12,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 2 | Revising the Select Query II | Easy | Basic Select | [View Code](./SQL/Basic-Select/revising-the-select-query-2.sql) |
 | 3 | Select By ID | Easy | Basic Select | [View Code](./SQL/Basic-Select/Select-By-ID.sql) |
 | 4 | Japanese Cities' Attributes | Easy | Basic Select | [View Code](./SQL/Basic-Select/04-japanese-cities-attributes.sql) |
+| 5 | Japanese Cities' Names | Easy | Basic Select | [View Code](./SQL/Basic-Select/05-japanese-cities-names.sql) |
 
 ---
 
