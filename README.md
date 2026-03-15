@@ -15,6 +15,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 5 | Japanese Cities' Names | Easy | Basic Select | [View Code](./SQL/Basic-Select/05-japanese-cities-names.sql) |
 | 6 | Weather Observation Station 1 | Easy | Basic Select | [View Code](./SQL/Basic-Select/06-weather-observation-station-1.sql) |
 | 7 | Weather Observation Station 3 | Easy | Basic Select | [View Code](./SQL/Basic-Select/07-weather-observation-station-3.sql) |
+| 8 | Weather Observation Station 4 | Easy | Basic Select | [View Code](./SQL/Basic-Select/08-weather-observation-station-4.sql) |
 ---
 
 ## 🛠️ Technologies
