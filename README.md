@@ -24,6 +24,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 14 | Weather Observation Station 10 | Easy | Basic Select | [View Code](./SQL/Basic-Select/14-weather-observation-station-10.sql) |
 | 15 | Weather Observation Station 11 | Easy | Basic Select | [View Code](./SQL/Basic-Select/15-weather-observation-station-11.sql) |
 | 16 | Weather Observation Station 12 | Easy | Basic Select | [View Code](./SQL/Basic-Select/16-weather-observation-station-12.sql) |
+| 17 | Higher Than 75 Marks | Easy | Basic Select | [View Code](./SQL/Basic-Select/17-higher-than-75-marks.sql) |
 
 ---
 
