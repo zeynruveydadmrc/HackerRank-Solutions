@@ -33,6 +33,8 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 23 | Binary Search Tree 1 | Medium | Advanced Select | [View Code](./SQL/Basic-Select/23-binary-search-tree-1.sql) |
 | 24 | New Companies | Medium | Advanced Select | [View Code](./SQL/Basic-Select/24-the-company.sql) |
 | 25 | Revising Aggregations - The Count Function | Easy | Aggregation | [View Code](./SQL/Basic-Select/25-revising-aggregations-the-count-function.sql) |
+| 26 | Revising Aggregations - The Sum Function | Easy | Aggregation | [View Code](./SQL/Basic-Select/26-revising-aggregations-the-sum-function.sql) |
+
 ---
 
 ## 🛠️ Technologies
