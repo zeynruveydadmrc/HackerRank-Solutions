@@ -38,6 +38,8 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 28 | Average Population | Easy | Aggregation | [View Code](./SQL/Basic-Select/28-average-population.sql) |
 | 29 | Japan Population | Easy | Aggregation | [View Code](./SQL/Basic-Select/29-japan-population.sql) |
 | 30 | Population Density Difference | Easy | Aggregation | [View Code](./SQL/Basic-Select/30-population-density-difference.sql) |
+| 31 | The Blunder | Easy | Aggregation | [View Code](./SQL/Basic-Select/31-the-blunder.sql) |
+
 
 ---
 
