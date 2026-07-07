@@ -29,6 +29,8 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 19 | Employee Salaries | Easy | Basic Select | [View Code](./SQL/Basic-Select/19-employee-salaries.sql) |
 | 20 | Type of Triangle | Easy | Basic Select | [View Code](./SQL/Basic-Select/20-type-of-triangle.sql) |
 | 21 | The PADS | Medium | Advanced Select | [View Code](./SQL/Basic-Select/21-the-pads.sql) |
+| 22 | Occupations | Medium | Advanced Select | [View Code](./SQL/Basic-Select/22-occupations.sql) |
+
 
 ---
 
