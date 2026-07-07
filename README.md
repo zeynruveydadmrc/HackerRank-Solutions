@@ -31,6 +31,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 21 | The PADS | Medium | Advanced Select | [View Code](./SQL/Basic-Select/21-the-pads.sql) |
 | 22 | Occupations | Medium | Advanced Select | [View Code](./SQL/Basic-Select/22-occupations.sql) |
 | 23 | Binary Search Tree 1 | Medium | Advanced Select | [View Code](./SQL/Basic-Select/23-binary-search-tree-1.sql) |
+| 24 | New Companies | Medium | Advanced Select | [View Code](./SQL/Basic-Select/24-the-company.sql) |
 
 ---
 
