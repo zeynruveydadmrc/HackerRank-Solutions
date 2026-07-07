@@ -36,6 +36,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 26 | Revising Aggregations - The Sum Function | Easy | Aggregation | [View Code](./SQL/Basic-Select/26-revising-aggregations-the-sum-function.sql) |
 | 27 | Revising Aggregations - The Average Function | Easy | Aggregation | [View Code](./SQL/Basic-Select/27-revising-aggregations-the-average-function.sql) |
 | 28 | Average Population | Easy | Aggregation | [View Code](./SQL/Basic-Select/28-average-population.sql) |
+| 29 | Japan Population | Easy | Aggregation | [View Code](./SQL/Basic-Select/29-japan-population.sql) |
 
 ---
 
