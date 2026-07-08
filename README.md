@@ -42,18 +42,18 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 32 | Top Earners | Easy | Aggregation | [View Code](./32-top-earners.sql) |
 | 33 | Weather Observation Station 2 | Easy | Aggregation | [View Code](./33-weather-observation-station-2.sql) |
 | 34 | Weather Observation Station 13 | Easy | Aggregation | [View Code](./34-weather-observation-station-13.sql) |
-| 35 | Weather Observation Station 14 | Easy | Aggregation | [View Code](./35-weather-observation-station-14.sql) |
-| 36 | Weather Observation Station 15 | Easy | Aggregation | [View Code](./36-weather-observation-station-15.sql) |
-| 37 | Weather Observation Station 16 | Easy | Aggregation | [View Code](./37-weather-observation-station-16.sql) |
-| 38 | Weather Observation Station 17 | Easy | Aggregation | [View Code](./38-weather-observation-station-17.sql) |
-| 39 | Weather Observation Station 18 | Medium | Aggregation | [View Code](./39-weather-observation-station-18.sql) |
+| 35 | Weather Observation Station 14 | Easy | Aggregation | [View Code](./34-weather-observation-station-14.sql) |
+| 36 | Weather Observation Station 15 | Easy | Aggregation | [View Code](./35-weather-observation-station-15.sql) |
+| 37 | Weather Observation Station 16 | Easy | Aggregation | [View Code](./36-weather-observation-station-16.sql) |
+| 38 | Weather Observation Station 17 | Easy | Aggregation | [View Code](./37-weather-observation-station-17.sql) |
+| 39 | Weather Observation Station 18 | Medium | Aggregation | [View Code](./38-weather-observation-station-18.sql) |
 | 40 | Weather Observation Station 19 | Medium | Aggregation | [View Code](./40-weather-observation-station-19.sql) |
 | 41 | Weather Observation Station 20 | Medium | Aggregation | [View Code](./41-weather-observation-station-20.sql) |
 | 42 | Asian Population | Easy | Basic Join | [View Code](./42-asian-population.sql) |
 | 43 | African Cities | Easy | Basic Join | [View Code](./43-african-cities.sql) |
 | 44 | Average Population of Each Continent | Easy | Basic Join | [View Code](./44-average-population-of-each-continent.sql) |
 | 45 | The Report | Medium | Basic Join | [View Code](./45-the-report.sql) |
-| 46 | Top Competitors | Medium | Basic Join | [View Code](./46-top-competitors.sql) |
+| 46 | Top Competitors | Medium | Basic Join | [View Code](./46-full-score.sql) |
 | 47 | Ollivander's Inventory | Medium | Basic Join | [View Code](./47-ollivanders-inventory.sql) |
 | 48 | Challenges | Medium | Basic Join | [View Code](./48-challenges.sql) |
 | 49 | Contest Leaderboard | Medium | Basic Join | [View Code](./49-contest-leaderboard.sql) |
@@ -65,7 +65,6 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 55 | Draw The Triangle 1 | Easy | Alternative Text Queries | [View Code](./55-draw-the-triangle-1.sql) |
 | 56 | Draw The Triangle 2 | Easy | Alternative Text Queries | [View Code](./56-draw-the-triangle-2.sql) |
 | 57 | Print Prime Numbers | Medium | Alternative Text Queries | [View Code](./57-print-prime-numbers.sql) |
-
 
 ---
 
