@@ -42,7 +42,7 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 32 | Top Earners | Easy | Aggregation | [View Code](./SQL/32-top-earners.sql) |
 | 33 | Weather Observation Station 2 | Easy | Aggregation | [View Code](./SQL/33-weather-observation-station-2.sql) |
 | 34 | Weather Observation Station 13 | Easy | Aggregation | [View Code](./SQL/34-weather-observation-station-13.sql) |
-| 35 | Weather Observation Station 14 | Easy | Aggregation | [View Code](./SQL/34-weather-observation-station-14.sql) |
+| 35 | Weather Observation Station 14 | Easy | Aggregation | [View Code](./SQL/35-weather-observation-station-14.sql) |
 | 36 | Weather Observation Station 15 | Easy | Aggregation | [View Code](./SQL/35-weather-observation-station-15.sql) |
 | 37 | Weather Observation Station 16 | Easy | Aggregation | [View Code](./SQL/36-weather-observation-station-16.sql) |
 | 38 | Weather Observation Station 17 | Easy | Aggregation | [View Code](./SQL/37-weather-observation-station-17.sql) |
