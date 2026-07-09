@@ -39,6 +39,33 @@ My personal journey through HackerRank challenges. Organized by category and dif
 | 29 | Japan Population | Easy | Aggregation | [View Code](./SQL/Basic-Select/29-japan-population.sql) |
 | 30 | Population Density Difference | Easy | Aggregation | [View Code](./SQL/Basic-Select/30-population-density-difference.sql) |
 | 31 | The Blunder | Easy | Aggregation | [View Code](./SQL/Basic-Select/31-the-blunder.sql) |
+| 31 | The Blunder | Easy | Aggregation | [View Code](./SQL/Basic-Select/31-the-blunder.sql) |
+| 32 | Top Earners | Easy | Aggregation | [View Code](./SQL/Basic-Select/32-top-earners.sql) |
+| 33 | Weather Observation Station 2 | Easy | Aggregation | [View Code](./SQL/Basic-Select/33-weather-observation-station-2.sql) |
+| 34 | Weather Observation Station 13 | Easy | Aggregation | [View Code](./SQL/Basic-Select/34-weather-observation-station-13.sql) |
+| 35 | Weather Observation Station 14 | Easy | Aggregation | [View Code](./SQL/Basic-Select/35-weather-observation-station-14.sql) |
+| 36 | Weather Observation Station 15 | Easy | Aggregation | [View Code](./SQL/Basic-Select/36-weather-observation-station-15.sql) |
+| 37 | Weather Observation Station 16 | Easy | Aggregation | [View Code](./SQL/Basic-Select/37-weather-observation-station-16.sql) |
+| 38 | Weather Observation Station 17 | Easy | Aggregation | [View Code](./SQL/Basic-Select/38-weather-observation-station-17.sql) |
+| 39 | Weather Observation Station 18 | Medium | Aggregation | [View Code](./SQL/Basic-Select/39-weather-observation-station-18.sql) |
+| 40 | Weather Observation Station 19 | Medium | Aggregation | [View Code](./SQL/Basic-Select/40-weather-observation-station-19.sql) |
+| 41 | Weather Observation Station 20 | Medium | Aggregation | [View Code](./SQL/Basic-Select/41-weather-observation-station-20.sql) |
+| 42 | Asian Population | Easy | Basic Join | [View Code](./SQL/Basic-Select/42-asian-population.sql) |
+| 43 | African Cities | Easy | Basic Join | [View Code](./SQL/Basic-Select/43-african-cities.sql) |
+| 44 | Average Population of Each Continent | Easy | Basic Join | [View Code](./SQL/Basic-Select/44-average-population-of-each-continent.sql) |
+| 45 | The Report | Medium | Basic Join | [View Code](./SQL/Basic-Select/45-the-report.sql) |
+| 46 | Top Competitors | Medium | Basic Join | [View Code](./SQL/Basic-Select/46-top-competitors.sql) |
+| 47 | Ollivander's Inventory | Medium | Basic Join | [View Code](./SQL/Basic-Select/47-ollivanders-inventory.sql) |
+| 48 | Challenges | Medium | Basic Join | [View Code](./SQL/Basic-Select/48-challenges.sql) |
+| 49 | Contest Leaderboard | Medium | Basic Join | [View Code](./SQL/Basic-Select/49-contest-leaderboard.sql) |
+| 50 | SQL Projects | Medium | Basic Join | [View Code](./SQL/Basic-Select/50-sql-projects.sql) |
+| 51 | Placements | Medium | Basic Join | [View Code](./SQL/Basic-Select/51-placements.sql) |
+| 52 | Symmetric Pairs | Medium | Basic Join | [View Code](./SQL/Basic-Select/52-symmetric-pairs.sql) |
+| 53 | Interviews | Hard | Basic Join | [View Code](./SQL/Basic-Select/53-interviews.sql) |
+| 54 | 15 Days of Learning SQL | Hard | Basic Join | [View Code](./SQL/Basic-Select/54-15-days-of-learning-sql.sql) |
+| 55 | Draw The Triangle 1 | Easy | Alternative Text Queries | [View Code](./SQL/Basic-Select/55-draw-the-triangle-1.sql) |
+| 56 | Draw The Triangle 2 | Easy | Alternative Text Queries | [View Code](./SQL/Basic-Select/56-draw-the-triangle-2.sql) |
+| 57 | Print Prime Numbers | Medium | Alternative Text Queries | [View Code](./SQL/Basic-Select/57-print-prime-numbers.sql) |
 
 
 ---
